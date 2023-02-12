@@ -1,0 +1,10 @@
+{
+  "name": "ES6-forCommonJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ES6-demo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

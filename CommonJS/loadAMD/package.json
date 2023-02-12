@@ -1,0 +1,11 @@
+{
+  "name": "CommonJS-loadAMD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amd-loader": "^0.0.8"
+  }
+}
